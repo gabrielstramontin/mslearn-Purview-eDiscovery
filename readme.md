@@ -13,6 +13,7 @@ For more information about this Microasoft Applied Skills, please check **[Micro
 ### Interactive Guides:
 - [Configure permissions and global settings](https://mslearn.cloudguides.com/guides/Configure%20permissions%20and%20global%20settings%20with%20Microsoft%20Purview%20eDiscovery)
 - [Apply a retention label](https://mslearn.cloudguides.com/guides/Apply%20a%20retention%20label%20in%20Microsoft%20Purview)
+- [Manage solution access](https://mslearn.cloudguides.com/guides/Manage%20solution%20access%20in%20Microsoft%20Purview)
 - [Create and configure a case](https://mslearn.cloudguides.com/guides/Create%20and%20configure%20a%20case%20with%20Microsoft%20Purview%20eDiscovery)
 - [Design a search](https://mslearn.cloudguides.com/guides/Design%20a%20search%20with%20Microsoft%20Purview%20eDiscovery)
 - [Apply a hold](https://mslearn.cloudguides.com/guides/Apply%20a%20hold%20with%20Microsoft%20Purview%20eDiscovery)
